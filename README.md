@@ -53,8 +53,11 @@
 
 - Clone or download this repo https://github.com/rodolphe37/payment-card-react.git
 
+- To install node doing in the console :
+  
+  ``` nvm use ```
 
- Do in the console :
+ Then, do in the console :
  
 -  ``` $ cd payment-card-react```
 
