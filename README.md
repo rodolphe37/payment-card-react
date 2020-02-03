@@ -1,68 +1,71 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Payment Card React template 
 
-## Available Scripts
+## Janvier 2020
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[Demo](#demo)
 
-### `yarn test`
+-  [Movie](#movie-demo)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Author](#author)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+[License](#license)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Start Project](#Start-project)
 
-### `yarn eject`
+---
+## Demo
+---
+### Movie Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![!Demogif](demo.gif)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
+ 
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Tech Stack
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+ **You must have at minimun these versions for greats performances and good compatibility**
 
-## Learn More
+ **Version of Node js**
+-    v8.16.2 minimun
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author 
 
-### Code Splitting
+- Rodolphe Augusto 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+--- 
 
-### Analyzing the Bundle Size
+## License  
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- MIT.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Start project
+---
 
-### Advanced Configuration
+- Clone or download this repo https://github.com/rodolphe37/payment-card-react.git
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+ Do in the console :
+ 
+-  ``` $ cd payment-card-react```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+-  ```  $ npm i``` or ``` $ npm install ```
 
-### `yarn build` fails to minify
+to install the dependencies and
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+-  ``` $ npm start```
+
+to start project.
+
+  
+
+enjoy!!!
